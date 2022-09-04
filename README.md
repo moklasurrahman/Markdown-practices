@@ -2,7 +2,7 @@
 This is readme file design practices
 
 
-#Markdown practices
+# Markdown practices
 
 Moklasur rahman <br>
 I am 23
@@ -19,7 +19,8 @@ I am 23
 `<h1>This is inline</h1>`
 
 
-###multiple line 
+### multiple line 
+<!-- HTML formet -->
 ```html
 <!DOCTYPE html>
 <html>
@@ -35,7 +36,7 @@ I am 23
 </html>
 ```
 
-
+<!-- css formet -->
 ```css
 <style>
 body {background-color: powderblue;}
