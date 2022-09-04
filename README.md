@@ -57,11 +57,11 @@ p    {color: red;}
 </ol>
 
 
-.Home
-  .am
-  .pm
-.Profile
-    .pk
-    .rk
-.About
-  .cont
+-Home
+  -am
+  -pm
+-Profile
+    -pk
+    -rk
+-About
+  -cont
