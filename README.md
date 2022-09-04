@@ -91,6 +91,7 @@ https://www.fiverr.com/mdmoklasurra338?up_rollout=true
 [Moklasur-rahamn-fiverr] (https://www.fiverr.com/mdmoklasurra338?up_rollout=true)
 
 
-### img syntext
-<img src=""https://media.gettyimages.com/photos/village-farmers-plant-the-seasons-rice-crop-even-in-the-best-of-times-picture-id534247656?s=612x612 />
+### img syntex
+
+<img src="https://media.gettyimages.com/photos/village-farmers-plant-the-seasons-rice-crop-even-in-the-best-of-times-picture-id534247656?s=612x612" />
 
