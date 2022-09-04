@@ -93,5 +93,10 @@ https://www.fiverr.com/mdmoklasurra338?up_rollout=true
 
 ### img syntex
 
-<img src="https://media.gettyimages.com/photos/village-farmers-plant-the-seasons-rice-crop-even-in-the-best-of-times-picture-id534247656?s=612x612" width="300" hight="300" />
+<img src="https://media.gettyimages.com/photos/village-farmers-plant-the-seasons-rice-crop-even-in-the-best-of-times-picture-id534247656?s=612x612" width="300" hight="300" title="profile-img" />
+
+
+### emoji 
+
+😊😂😂🤦‍♂️
 
