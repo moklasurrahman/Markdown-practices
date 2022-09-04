@@ -55,3 +55,13 @@ p    {color: red;}
   <li>About</li>
   <li>Profile</li>
 </ol>
+
+
+.Home
+  .am
+  .pm
+.Profile
+    .pk
+    .rk
+.About
+  .cont
